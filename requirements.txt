@@ -1,2 +1,3 @@
 superset
+psycopg2
 PyAthena
