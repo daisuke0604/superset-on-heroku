@@ -1,10 +1,9 @@
 {
   "name": "Superset on Heroku",
   "description": "Data exploration platform designed to be visual, intuitive, and interactive",
-  "logo": "https://cdn.rawgit.com/airbnb/superset/master/superset/assets/images/superset_logo.png",
-  "repository": "https://github.com/dugjason/superset-on-heroku",
+  "logo": "https://github.com/apache/incubator-superset/raw/master/superset/assets/branding/SoloMark.png",
+  "repository": "https://github.com/daisuke0604/superset-on-heroku",
   "addons": [
-    "papertrail",
     "heroku-postgresql"
   ],
   "buildpacks": [
